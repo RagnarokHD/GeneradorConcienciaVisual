@@ -15,3 +15,18 @@ Crear y difundir imágenes que ayuden a comprender los desafíos ambientales act
 - **images/**: Carpeta donde se guardan las imágenes generadas.
 - **docs/**: Documentación adicional y recursos del proyecto.
 
+## Este es el tipo de mi proyecto:
+> Generador de imágenes informativas sobre el cambio climático utilizando Python.
+
+## Las bibliotecas que voy a utilizar:
+- **Pillow**: Para manipular y crear imágenes.
+- **Matplotlib**: Para generar gráficos y visualizaciones de datos.
+
+## Referencias útiles:
+1. [Documentación de Pillow](https://pillow.readthedocs.io/): Guía oficial para aprender a usar la biblioteca de manipulación de imágenes.
+2. [Documentación de Matplotlib](https://matplotlib.org/stable/contents.html): Referencia para crear gráficos en Python.
+
+## Los artículos de la guía que me ayudarán durante el desarrollo:
+1. [Informe de la ONU sobre el cambio climático](https://www.un.org/es/climatechange): Proporciona datos y contexto sobre el impacto del cambio climático, ideal para inspiración y contenido en las imágenes.
+2. [Tutorial básico de proyectos con Python y Pillow](https://realpython.com/working-with-images-in-python/): Un tutorial útil para aprender a manipular imágenes en Python, aplicable en el proyecto.
+
