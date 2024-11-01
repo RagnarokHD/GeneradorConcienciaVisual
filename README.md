@@ -63,4 +63,4 @@ Estos mensajes se eligen aleatoriamente cada vez que se ejecuta el comando `!con
 
 ---
 
-Este README proporciona una guía completa del proyecto, incluyendo los objetivos, comandos, estructura, y referencias útiles para la investigación y desarrollo del bot de conciencia climática.
+
