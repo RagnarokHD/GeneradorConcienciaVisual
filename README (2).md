@@ -1,4 +1,3 @@
-
 # Generador de Conciencia Visual
 
 ## Descripción
